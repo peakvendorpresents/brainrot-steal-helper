@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=50&pause=450&color=9B59B6&center=true&vCenter=true&width=1200&height=140&lines=STEAL+A+BRAINROT+HACK+SCRIPT+2026;AUTO+STEAL+%7C+BAT+AIMBOT+%7C+FLY;STEAL+THE+BRAINROT" alt="Steal a Brainrot Hack Script 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f64d8407-0303-44a1-901a-85e691e7c983" />
 
 <br/>
 
